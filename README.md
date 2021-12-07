@@ -1,6 +1,6 @@
 # Ray Tracing
 
-This project was made following the [_Ray Tracing in One Weekend_](https://raytracing.github.io/books/RayTracingInOneWeekend.htm)
+This project was made following the [_Ray Tracing in One Weekend_](https://raytracing.github.io/books/RayTracingInOneWeekend.html)
 tutorial.
 
 ## Dependencies
